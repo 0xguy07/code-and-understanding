@@ -2,6 +2,8 @@
 
 I'm rebuilding my foundations in **software development** and **artificial intelligence**, and documenting the process through code, notes, projects, and reflection.
 
+**[View the curriculum →](CURRICULUM.md)**
+
 ## Why I'm doing this
 
 Over the last few years, I've gone from chatting with AI in a web browser to using it through the **command-line interface (CLI)** with tools such as **Claude Code**, **Codex**, and **Gemini**, along with local language models through **Ollama**.
@@ -42,7 +44,7 @@ For employers, educators, and other learners, I want this repository to offer ev
 
 This repository will grow to include subject notes, exercises, projects, reading reflections, and ideas for future work. I'll keep the questions, mistakes, and revisions that help explain how I arrived at a solution.
 
-My learning draws on **KodeKloud** and **Zero To Mastery**. I'm starting with **GIT for Beginners** on KodeKloud, followed by Python, databases, APIs, and practical AI development. A planned `CURRICULUM.md` will hold the course links, milestones, and progress.
+My learning draws on **KodeKloud** and **Zero To Mastery**. I'm starting with **GIT for Beginners** on KodeKloud, followed by Python, databases, APIs, and practical AI development. The [curriculum](CURRICULUM.md) holds the course links, milestones, and progress.
 
 Keeping the work here will also let me move between my personal and work MacBooks and pick up where I left off.
 
